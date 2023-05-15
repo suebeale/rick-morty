@@ -1,2 +1,2 @@
-# rick-morty
-Creating an API application to show Rick & Morty data
+# api-test
+testing an api
